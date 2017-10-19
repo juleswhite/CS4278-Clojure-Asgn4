@@ -12,7 +12,9 @@ of your app are as follows:
   4. You must build a UI that sends requests to your server-side handler in response to some user event (e.g., clicking).
   5. You must display data in your UI that comes from the server.
   
-The code base implements a simple "greeting server" that satisifes all of the requirements above. You must implement a new app, or significantly extend the existing functionality (the extension must itself satisfy all requirements), to satisfy the requirements.
+The code base implements a simple "greeting server" that satisfies all of the requirements above. You must implement a new
+app, or significantly extend the existing functionality (the extension must itself satisfy all requirements), to satisfy 
+the requirements.
   
 # Team Members
 *Fill this in with your names!*
